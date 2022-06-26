@@ -1,0 +1,10 @@
+**/.DS_Store
+**/*.MTL
+**/*.mtl
+.idea
+.DS_Store
+node_modules/
+dla_venv/
+**/__pycache*
+*$py.class
+**/*.pyc
