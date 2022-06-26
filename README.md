@@ -23,5 +23,5 @@ Open Source Hardware created by and for the DLA Makerspace.  Pull requests are w
     │   └── *.stl
     └── SVGs
         ├── LabeledTextAreasLaser.svg
-    │   └── *.stl
+        └── *.stl
 ```
