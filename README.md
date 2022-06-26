@@ -1,5 +1,3 @@
-# spaceware
-
 Open Source Hardware created by and for the DLA Makerspace.  Pull requests are welcome and encouraged!
 
 
