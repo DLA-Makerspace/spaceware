@@ -29,3 +29,4 @@ Open Source Hardware created by and for the DLA Makerspace.  Pull requests are w
 
 |![](https://raw.githubusercontent.com/DLA-Makerspace/spaceware/main/BungieEMT_ShelfUnit/Images/BungieEMT.png)|![](https://raw.githubusercontent.com/DLA-Makerspace/spaceware/main/UltimakerTextBlock/Images/ProjectLayoutView.png)|
 |--|--|
+|![](https://raw.githubusercontent.com/DLA-Makerspace/spaceware/main/BOFA_AcceleratorFittings/Images/BofaSplitterAssemblyRenderB.png)|![](https://raw.githubusercontent.com/DLA-Makerspace/spaceware/main/ProntoHatchetHolder/Images/ProntoHatchet.png)|
